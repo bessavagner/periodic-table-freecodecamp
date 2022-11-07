@@ -1,1 +1,3 @@
-#Periodic Table - freecodecamp\nVagner Bessa
+# Periodic Table - freecodecamp
+
+Vagner Bessa
